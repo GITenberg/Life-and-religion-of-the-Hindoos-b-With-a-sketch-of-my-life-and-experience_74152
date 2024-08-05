@@ -1,0 +1,56 @@
+_repo: Life-and-religion-of-the-Hindoos-b-With-a-sketch-of-my-life-and-experience_74152
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bush, Solon Wanton
+    aliases:
+    - Bush, S. W.
+    - Bush, Solon W.
+    birthdate: 1819
+    deathdate: 1898
+    gutenberg_agent_id: '57373'
+    url: http://www.gutenberg.org/2009/agents/57373
+creator:
+  author:
+    agent_name: Gangooly, Joguth Chunder
+    aliases:
+    - Native Brahmin
+    - Gangooly, Philip
+    - Gangooly, J. C.
+    - Ganguli, Jogut Chunder
+    - Gangooly, Joguth Chandra
+    gutenberg_agent_id: '57368'
+    url: http://www.gutenberg.org/2009/agents/57368
+  editor:
+    agent_name: Ellis, George Edward
+    aliases:
+    - Ellis, George E. (George Edward)
+    - Lisle
+    birthdate: 1814
+    deathdate: 1894
+    gutenberg_agent_id: '57372'
+    url: http://www.gutenberg.org/2009/agents/57372
+    wikipedia: https://en.wikipedia.org/wiki/George_Edward_Ellis
+description: ''
+gutenberg_issued: '2024-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74152'
+language: en
+pgterms:marc905: 20170519234152gangooly
+pgterms:marc906: '1860'
+pgterms:marc907: us
+production_note: David Edwards, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bCrosby, Nichols, Lee and Company, $c1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Social life and customs'
+- !lcsh 'Hindus'
+- !lcc 'DS'
+- GITenberg
+title: 'Life and religion of the Hindoos. : $b With a sketch of my life and experience.'
+url: http://www.gutenberg.org/ebooks/74152
