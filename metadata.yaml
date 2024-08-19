@@ -10,6 +10,9 @@ contributor:
     deathdate: 1898
     gutenberg_agent_id: '57373'
     url: http://www.gutenberg.org/2009/agents/57373
+covers:
+- cover_type: archival
+  image_path: 74152-h/images/cover.jpg
 creator:
   author:
     agent_name: Gangooly, Joguth Chunder
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57372
     wikipedia: https://en.wikipedia.org/wiki/George_Edward_Ellis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74152#Life-and-religion-of-the-Hindoos-b-With-a-sketch-of-my-life-and-experience
 gutenberg_issued: '2024-07-29'
 gutenberg_type: Text
 identifiers:
